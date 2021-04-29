@@ -1,0 +1,11 @@
+.responsive {
+  height: 500px;
+}
+.over-view-heading {
+  text-align: center;
+  margin: 20px;
+}
+.over-view-heading h1 {
+  padding: 5px;
+  font-weight: bold;
+}

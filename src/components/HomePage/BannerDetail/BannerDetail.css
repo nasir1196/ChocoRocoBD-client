@@ -1,0 +1,20 @@
+.border-style {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+}
+.main-border {
+  border-radius: 8px;
+}
+.border-button button {
+  width: 50%;
+  border: none;
+  border-radius: 5px;
+  background-color: yellowgreen;
+  padding: 5px;
+  transition: font-weight 2s, background-color 4s;
+}
+.border-button button:hover {
+  color: #fcdff1;
+  font-weight: bold;
+  background-color: #f01e1e;
+}
